@@ -1,4 +1,3 @@
-# Aritifical-Intelligent-HW
 Programming assignments for my Artificial Intelligent course. 
 
 ##### 1.  Implement the corresponding Backtracking Algorithm in Python to solve the n-queen problem.
