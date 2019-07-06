@@ -1,9 +1,6 @@
 
 # https://stackoverflow.com/questions/717725/understanding-recursion
 """
-    Duc Vu
-    CPSC 4610_ AI
-    HW4:
     Sudoku solver in Python. Your code gets a Sudoku puzzle from the input (i.e., a file) 
     and returns the output in an output file.
     Algorithm: use backtracking with forward checking and "degree" and "MRV" heuristics. 
